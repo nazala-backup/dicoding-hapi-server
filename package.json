@@ -1,0 +1,16 @@
+{
+  "name": "hapi-server",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "scripts": {
+    "start": "npx nodemon ./server.js -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
